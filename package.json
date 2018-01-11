@@ -1,7 +1,7 @@
 {
   "name": "@dxcli/dev-commitmsg",
   "description": "validates commit messages for dxcli projects",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Jeff Dickey @jdxcode",
   "dependencies": {
     "@commitlint/cli": "^6.0.1",
