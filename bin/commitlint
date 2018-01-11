@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+commitlint -x @commitlint/config-conventional -e $GIT_PARAMS
