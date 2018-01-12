@@ -1,7 +1,7 @@
 {
   "name": "@dxcli/dev-commitmsg",
   "description": "validates commit messages for dxcli projects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Jeff Dickey @jdxcode",
   "bin": {
     "dxcli-dev-commitmsg": "bin/run"
